@@ -44,6 +44,19 @@
 
 }
 
+
+@media(max-width:360px) {
+
+  .btn {
+    padding: 10px 14px;
+    font-size: .8rem;
+    letter-spacing: 1px;
+  }
+
+
+}
+
+
 @media(max-width:1200px) {
     .areas {
     
