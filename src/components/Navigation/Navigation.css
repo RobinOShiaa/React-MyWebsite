@@ -1,0 +1,58 @@
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    align-items: center;
+    height: 20vh;
+
+   
+    background-color: #090b14;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    max-width: 900px;
+    min-width: 400px;
+    
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.btn {
+    font-size: 1.2rem;
+    text-align: center;
+    display: inline-block;
+    padding: 15px 40px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    position:relative;
+    overflow:hidden;
+    
+}
+
+.btn:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    background: white;
+    
+    left: 45%;
+    height: 2px;
+    bottom: 0;
+    transition: all .3s;
+    opacity: 0.7;
+}
+
+.btn:hover:before {
+    width: 100%;
+    left:0;
+}
+
+

@@ -1,0 +1,14 @@
+#border {
+  background: #090b14;
+  height: 200px;
+  text-align: center;
+  
+}
+
+.int {
+  padding-bottom: 30px;
+  font-size: 3.5rem;
+  position: relative;
+  bottom: 20px;
+}
+

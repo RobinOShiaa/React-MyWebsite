@@ -1,0 +1,16 @@
+.App {
+  font-family: 'Poppins', sans-serif;
+  /* background: #090b14; */
+  background: #0d0f1b;
+  --bord-col : #0d0f1b;
+  box-sizing: border-box;
+  --submit:rgb(22, 23, 32);
+  --submit-hover:rgba(22, 23, 32, 0.164);
+  
+  
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
