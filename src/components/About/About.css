@@ -95,6 +95,14 @@
         font-size: 2rem;
        
     }
+    
+    #about-me-info {
+      width: 70%
+    }
+  
+  
+
+
     .aboutContainer {
         display: flex;
         flex-direction: column-reverse;
@@ -125,12 +133,12 @@
     }
 
 
-   
 
-
-
-
-   
+    
+    #about-me-info p {
+        letter-spacing: none;
+      
+      }
 
 
     .contactIcons a {
