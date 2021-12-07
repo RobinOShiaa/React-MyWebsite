@@ -95,13 +95,6 @@
         font-size: 2rem;
        
     }
-    
-    #about-me-info {
-      width: 70%;
-    }
-  
-  
-
 
     .aboutContainer {
         display: flex;
@@ -147,11 +140,6 @@
         margin-right: 25px;
      
     }
-
-
-
-
-    
 
    
 

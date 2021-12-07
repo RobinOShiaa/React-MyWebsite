@@ -34,11 +34,21 @@
   padding: 5px;
   margin: 1rem;
 }
+
+
+
 @media(max-width:600px) {
   .btn {
     padding: 15px 10px;
     font-size: .9rem;
   }
+
+  #about-me-info {
+    width: 90%;
+    text-align:center;
+
+  }
+
 
 
 }
