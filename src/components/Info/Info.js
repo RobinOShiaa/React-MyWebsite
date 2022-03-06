@@ -9,7 +9,7 @@ const Info = () => {
         
           <div id="about-me-info"><h2>About Me</h2>
             <br></br>
-            <p>Hello I'm Robin, I am an enthusiastic, self motivated and eager to learn as well as evolve my current skill set in order to successfully complete any task given to me. I graduated from Dublin College University in 2020. I have a BSci in Computer Applications and Software Engineering. I am very much interested in all areas of my qualification and have a fine aptitude of experiences in the following areas of expertise.</p>
+            <p>Hello my name is Robin, I am an enthusiastic, self motivated and eager to learn, as well as evolve my current skill set in order to successfully complete any task given to me. I graduated from Dublin City University in 2020. I have a BSci in Computer Applications and Software Engineering. I am very much interested in all areas of my qualification and have a fine aptitude of experiences in the following areas of expertise.</p>
             <span class="areas">Python</span>
             <span class="areas">Java</span>
             <span class="areas">Javascript</span>
