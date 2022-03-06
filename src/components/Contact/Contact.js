@@ -21,8 +21,8 @@ const Contact = (props) => {
     emailjs.sendForm('service_g2g63wm', 'template_cgxwffl', e.target,'user_U4X4oBFJJCG0kCjV6SAR4')
       .then((result) => {
           console.log(result.text);
-          alert('Message Sent')
       }, (error) => {
+          alert('Message was not sent')
           console.log(error.text);
       });
 
